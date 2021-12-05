@@ -1,0 +1,6 @@
+press enter after all of thses
+
+cd Documents
+cd stocks (press tab after your write stocks, should autofill the escaped space shit)
+source .venv/bin/activate
+python yahoo.py
